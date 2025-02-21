@@ -1,0 +1,20 @@
+Gather and import Data:
+•	SQL, or Structured Query Language, is a querying language used for extracting information from relational databases.
+•	Non-relational databases can be queried using SQL or SQL-like query tools. 
+•	Some non-relational databases come with their own querying tools such as CQL for Cassandra and GraphQL for Neo4J.
+
+Application Programming Interfaces (or APIs) are also popularly used for extracting data from a variety of data sources. 
+•	APIs are invoked from applications that require the data and access an end-point containing the data. 
+•	End-points can include databases, web services, and data marketplaces. 
+•	APIs are also used for data validation. 
+•	For example, a data analyst may utilize an API to validate postal addresses and zip codes. 
+•	Web scraping, also known as screen scraping or web harvesting, is used for downloading specific data from web pages based on defined parameters. 
+•	Among other things, web scraping is used to extract data such as text, contact information, images, videos, podcasts, and product items from a web property. 
+•	RSS feeds are another source typically used for capturing updated data from online forums and news sites where data is refreshed on an ongoing basis. 
+•	Data streams are a popular source for aggregating constant streams of data flowing from sources such as instruments, IoT devices and applications, and GPS data from cars. 
+•	Data streams and feeds are also used for extracting data from social media sites and interactive platforms. 
+•	Data Exchange platforms allow the exchange of data between data providers and data consumers. 
+•	Data Exchanges have a set of well-defined exchange standards, protocols, and formats relevant for exchanging data. 
+•	These platforms not only facilitate the exchange of data, they also ensure that security and governance are maintained. 
+•	They provide data licensing workflows, de-identification and protection of personal information, legal frameworks, and a quarantined analytics environment. 
+•	Examples of popular data exchange platforms include AWS Data Exchange, Crunchbase, Lotame, and Snowflake.

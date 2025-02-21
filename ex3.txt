@@ -1,0 +1,5 @@
+We are seeking a Data Engineer to automate the pipeline.
+As a Data Engineer, you will be responsible for the design.
+You will implement new and automated data solutions, 
+- Monitor and troubleshoot operational or data issues in the data pipelines.
+- Setup internal dashboard tools for data visualization

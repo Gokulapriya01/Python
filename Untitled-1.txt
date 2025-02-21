@@ -1,0 +1,35 @@
+Are you inspired by invention? Is problem solving through teamwork in your
+ DNA? Do you like the idea of seeing how your work impacts the bigger 
+ picture? Answer yes to any of these and you’ll fit right in here at 
+ Amazon Robotics. We are a smart, collaborative team of doers that work 
+ passionately to apply leading-edge advances in robotics and software to 
+ solve real-world challenges that will transform our customers’ experiences 
+ in ways we can’t even imagine yet. We invent new improvements every day. 
+ We are Amazon Robotics and we will give you the tools and support you need 
+ to invent with us in ways that are rewarding, fulfilling and fun.
+
+Key job responsibilities
+- Implement solutions for data storage, reporting, science and analytics.
+- Incorporate big data solutions to enhance machine learning, analytics and
+ reporting capabilities.
+- Monitor and troubleshoot operational or data issues in the data pipelines.
+- Setup internal dashboard tools for data visualization
+- Work across teams to gather requirements for data logging, storing,
+ transforming, and reporting, and build scalable solutions.
+
+A day in the life
+At Amazon, we value people with unique backgrounds, experiences, and 
+skillsets. If you’re passionate about this role and want to make an 
+impact on a global scale, please apply!
+
+Benefits Summary:
+Amazon offers a full range of benefits that support you and eligible family 
+members, including domestic partners and their children. Benefits can vary 
+by location, the number of regularly scheduled hours you work, length of 
+employment, and job status such as seasonal or temporary employment. The 
+benefits that generally apply to regular, full-time employees include:
+
+1. Medical, Dental, and Vision Coverage
+2. Maternity and Parental Leave Options
+3. Paid Time Off (PTO)
+4. 401(k) Plan
